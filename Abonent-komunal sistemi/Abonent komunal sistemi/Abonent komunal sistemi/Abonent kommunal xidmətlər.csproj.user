@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Abonent-kommunal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Abonent_qeydiyyati.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BDBB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="isciqeydeyisiklik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="isciqeydiy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Odenisde_sehvlik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Qeydiyyatda_sehvlik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,29 @@
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\bin\Debug\netcoreapp3.1\Abonent kommunal xidmətlər.exe
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\bin\Debug\netcoreapp3.1\Abonent kommunal xidmətlər.deps.json
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\bin\Debug\netcoreapp3.1\Abonent kommunal xidmətlər.runtimeconfig.json
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\bin\Debug\netcoreapp3.1\Abonent kommunal xidmətlər.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\bin\Debug\netcoreapp3.1\Abonent kommunal xidmətlər.dll
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\bin\Debug\netcoreapp3.1\Abonent kommunal xidmətlər.pdb
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\obj\Debug\netcoreapp3.1\Abonent kommunal xidmətlər.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\obj\Debug\netcoreapp3.1\Abonent_komunal_sistemi.Abonent_kommunal.resources
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\obj\Debug\netcoreapp3.1\Abonent_komunal_sistemi.Abonent_qeydiyyati.resources
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\obj\Debug\netcoreapp3.1\Abonent_komunal_sistemi.BDBB.resources
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\obj\Debug\netcoreapp3.1\Abonent_komunal_sistemi.Form1.resources
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\obj\Debug\netcoreapp3.1\Abonent_komunal_sistemi.isciqeydeyisiklik.resources
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\obj\Debug\netcoreapp3.1\Abonent_komunal_sistemi.isciqeydiy.resources
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\obj\Debug\netcoreapp3.1\Abonent_komunal_sistemi.Odenisde_sehvlik.resources
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\obj\Debug\netcoreapp3.1\Abonent_komunal_sistemi.Qeydiyyatda_sehvlik.resources
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\obj\Debug\netcoreapp3.1\Abonent kommunal xidmətlər.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\obj\Debug\netcoreapp3.1\Abonent kommunal xidmətlər.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\obj\Debug\netcoreapp3.1\Abonent kommunal xidmətlər.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\obj\Debug\netcoreapp3.1\Abonent kommunal xidmətlər.AssemblyInfo.cs
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\obj\Debug\netcoreapp3.1\Abonent kommunal xidmətlər.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\obj\Debug\netcoreapp3.1\Abonent kommunal xidmətlər.dll
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\obj\Debug\netcoreapp3.1\Abonent kommunal xidmətlər.pdb
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\obj\Debug\netcoreapp3.1\Abonent kommunal xidmətlər.genruntimeconfig.cache
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Abonent-komunal sistemi\Abonent komunal sistemi\Abonent komunal sistemi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
